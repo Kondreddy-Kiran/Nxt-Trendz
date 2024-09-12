@@ -41,3 +41,13 @@ incrementCartItemQuantity
 this method increases the quantity of a product in the cartList
 decrementCartItemQuantity 
 this method decreases the quantity of a product in the cartList
+
+Resources
+Colors
+
+Hex: #0b69ff
+Hex: #171f46
+Hex: #616e7c
+Hex: #ffffff
+Font-families
+Roboto
