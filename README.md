@@ -1,6 +1,7 @@
 # Nxt-Trendz
 Completion Instructions
 Functionality to be added
+# Live: https://nxttrendzkkiran.ccbp.tech/login
 
 The app must have the following functionalities
 
